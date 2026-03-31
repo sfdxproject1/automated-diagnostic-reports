@@ -1,0 +1,57 @@
+[
+  {
+    "id": 70,
+    "report_id": 14,
+    "area_name": "External Wall",
+    "observation_text": "Crack and duct issue observed",
+    "thermal_reading": "28.8 °C",
+    "image_path": "/uploads/14/therm_page_1_img_1.png",
+    "recommended_action": "Repair or replace damaged wall and duct",
+    "is_conflict": 0,
+    "source_page": null
+  },
+  {
+    "id": 69,
+    "report_id": 14,
+    "area_name": "Parking Area",
+    "observation_text": "Leakage observed at the ceiling",
+    "thermal_reading": "Not Available",
+    "image_path": "/uploads/14/insp_page_11_img_1.png",
+    "recommended_action": "Repair or replace damaged ceiling and waterproofing",
+    "is_conflict": 0,
+    "source_page": null
+  },
+  {
+    "id": 68,
+    "report_id": 14,
+    "area_name": "Kitchen",
+    "observation_text": "Dampness observed at the skirting level",
+    "thermal_reading": "Not Available",
+    "image_path": "/uploads/14/insp_page_9_img_1.png",
+    "recommended_action": "Check for hidden leaks and repair if necessary",
+    "is_conflict": 0,
+    "source_page": null
+  },
+  {
+    "id": 67,
+    "report_id": 14,
+    "area_name": "Master Bedroom",
+    "observation_text": "Dampness observed at the skirting level",
+    "thermal_reading": "25.8 °C",
+    "image_path": "/uploads/14/insp_page_7_img_1.png",
+    "recommended_action": "Check for hidden leaks and repair if necessary",
+    "is_conflict": 0,
+    "source_page": null
+  },
+  {
+    "id": 66,
+    "report_id": 14,
+    "area_name": "Common Bathroom",
+    "observation_text": "Tile hollowness and plumbing issue observed",
+    "thermal_reading": "Not Available",
+    "image_path": "/uploads/14/insp_page_5_img_1.png",
+    "recommended_action": "Repair or replace damaged tiles and plumbing fixtures",
+    "is_conflict": 0,
+    "source_page": null
+  }
+]
